@@ -1,14 +1,14 @@
 {
-    "name": "ToMatr9x",
-    "description": "ToMatr9x project",
-    "keywords": ["ToMatr9x project"],
+    "name": "ToMatr1x",
+    "description": "ToMatr1x project",
+    "keywords": ["ToMatr1x best project"],
     "env": {
         "onevv": {
-            "description": "so simp",
-            "value": "4"
+            "description": "so pimp",
+            "value": "5"
         }
     },
-    "website": "https://github.com/SuspectWorkers/tomatr9x",
-    "repository": "https://github.com/SuspectWorkers/tomatr9x",
+    "website": "https://github.com/SuspectWorkers/tomatr1x",
+    "repository": "https://github.com/SuspectWorkers/tomatr1x",
     "stack": "container"
 }
