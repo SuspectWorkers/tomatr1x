@@ -1,0 +1,14 @@
+{
+    "name": "ToMatr9x",
+    "description": "ToMatr9x project",
+    "keywords": ["ToMatr9x project"],
+    "env": {
+        "onevv": {
+            "description": "so simp",
+            "value": "4"
+        }
+    },
+    "website": "https://github.com/SuspectWorkers/tomatr9x",
+    "repository": "https://github.com/SuspectWorkers/tomatr9x",
+    "stack": "container"
+}
